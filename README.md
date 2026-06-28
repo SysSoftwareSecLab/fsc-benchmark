@@ -8,7 +8,7 @@ This repository accompanies the technical report:
 > Generation: A Framework Note on Measurement, Task Ecosystems, 
 > and Hard Cases." arXiv preprint, April 2026.
 > [[arXiv link](https://arxiv.org/abs/2604.17014v2)]
-
+https://arxiv.org/abs/2604.17014v2
 ## What is FSC?
 
 False Security Confidence (FSC) describes the condition in which 
