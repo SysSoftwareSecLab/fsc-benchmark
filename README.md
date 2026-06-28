@@ -7,7 +7,7 @@ This repository accompanies the technical report:
 > Xiaolei Ren. "False Security Confidence in Benign LLM Code 
 > Generation: A Framework Note on Measurement, Task Ecosystems, 
 > and Hard Cases." arXiv preprint, April 2026.
-> [[arXiv link — to be added after submission](https://arxiv.org/abs/2604.17014v2)]
+> [[arXiv link](https://arxiv.org/abs/2604.17014v2)]
 
 ## What is FSC?
 
