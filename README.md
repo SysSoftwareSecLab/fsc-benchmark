@@ -1,6 +1,6 @@
 # FSC Benchmark
 
-、、、
+
 fsc_benchmark_toolkit/
   README.md
   LICENSE
@@ -29,7 +29,7 @@ fsc_benchmark_toolkit/
     test_io_cli.py
   reports/
     demo_report.md
-、、、
+
 **False Security Confidence in Benign LLM Code Generation**
 
 This repository accompanies the technical report:
