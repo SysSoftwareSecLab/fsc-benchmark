@@ -1,0 +1,17 @@
+[
+  {
+    "task_id": "general-sort-001",
+    "ecosystem": "general_purpose",
+    "description": "Synthetic algorithmic task with no explicit security framing."
+  },
+  {
+    "task_id": "deploy-sql-001",
+    "ecosystem": "deployment_context",
+    "description": "Synthetic deployment-context task involving database query construction."
+  },
+  {
+    "task_id": "security-validate-001",
+    "ecosystem": "security_explicit",
+    "description": "Synthetic security-explicit task involving validation and sanitization."
+  }
+]
